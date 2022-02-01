@@ -1,0 +1,36 @@
+[{
+    "id": 1,
+    "nombre": "Davon",
+    "apellido": "Ranaghan",
+    "correo": "dranaghan0@yolasite.com",
+    "direccion": "0 Northland Point",
+    "telefono": "01096"
+  }, {
+    "id": 2,
+    "nombre": "Carie",
+    "apellido": "Gerrels",
+    "correo": "cgerrels1@springer.com",
+    "direccion": "904 Annamark Street",
+    "telefono": "03852"
+  }, {
+    "id": 3,
+    "nombre": "Sheila-kathryn",
+    "apellido": "Odom",
+    "correo": "sodom2@hatena.ne.jp",
+    "direccion": "4 Morrow Lane",
+    "telefono": "7558"
+  }, {
+    "id": 4,
+    "nombre": "Filmer",
+    "apellido": "Atherley",
+    "correo": "fatherley3@blogspot.com",
+    "direccion": "690 Michigan Drive",
+    "telefono": "384"
+  }, {
+    "id": 5,
+    "nombre": "Artemis",
+    "apellido": "Danniell",
+    "correo": "adanniell4@ning.com",
+    "direccion": "307 Mayer Crossing",
+    "telefono": "4"
+  }]
